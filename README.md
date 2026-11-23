@@ -4,8 +4,6 @@ I built an end-to-end analytics stack for a contact center: incremental ETL from
 
 This public copy is a **generalized demonstration of the approach**. Company and product names, hostnames and production figures have been removed. Everything in `sample_data/` is **synthetic** and will not reproduce the business results listed below. Suggested GitHub repository name: `contact-center-analytics`.
 
-Author: Maxim Filimonov ([maxpheelmo](https://github.com/maxpheelmo)).
-
 ---
 
 # Аналитика контакт-центра
